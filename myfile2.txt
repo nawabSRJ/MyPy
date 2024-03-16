@@ -1,0 +1,4 @@
+Hey , my name is Srajan Saxena
+
+This is the second file in a different directory (dir name : Python)
+(dir from where i am accessing : File Handling)

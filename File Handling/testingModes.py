@@ -1,0 +1,15 @@
+# testing file mode
+f = open("newfile1.txt",'a+')
+# txt = f.write('Hello Srajan')
+# print('Writing Done...')
+f.seek(0)
+t = f.read()
+print(t)
+print(f.name)
+print(f.mode)
+f.close()
+
+# rp = open("newfile1.txt",'w+')
+# t = rp.read()
+# print(t)
+# rp.close()

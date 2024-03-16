@@ -1,0 +1,4 @@
+RollNo Name Course Fee
+1001      Dev     Bsc     10000
+1005      SRJ     BCA	30000
+	

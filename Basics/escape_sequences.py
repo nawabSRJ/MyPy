@@ -1,0 +1,1 @@
+print("\tThis\n is \a a \bprogram \fto test \fthe\v escape \rsequences in Python")
